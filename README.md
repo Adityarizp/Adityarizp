@@ -1,70 +1,91 @@
 
-# 👋 Halo, Saya Adityarizp!
+# 👋 Hi, I'm Adityarizp!
 
-### 💻 Information Systems Student | Web Developer | Technology Enthusiast
+### 💻 Information Systems Student | Web Developer | AI & Machine Learning Enthusiast
 
-Selamat datang di profil GitHub saya!
+Welcome to my GitHub profile! I'm an Information Systems student passionate about technology, software development, Artificial Intelligence, and Machine Learning.
 
-Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan pada pengembangan aplikasi web, sistem informasi, database, dan teknologi Artificial Intelligence.
-
-Saya senang mempelajari teknologi baru, membangun aplikasi, serta mengembangkan solusi digital yang bermanfaat.
+I enjoy building digital solutions, developing intelligent systems, and exploring new technologies to solve real-world problems.
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-- 🎓 Mahasiswa Program Studi Sistem Informasi
-- 💻 Tertarik pada Web Development dan Software Development
-- 🌐 Sedang mempelajari PHP dan Laravel
-- 🗄️ Tertarik pada Database Management
-- 🤖 Mempelajari Artificial Intelligence dan Machine Learning
-- 🚀 Senang mengembangkan proyek teknologi dan open source
+- 🎓 Information Systems Student
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧠 Experimenting with Machine Learning Algorithms
+- 💻 Interested in Software & Web Development
+- 🌐 Developing applications using PHP and Laravel
+- 🗄️ Working with PostgreSQL and MySQL
+- 🚀 Always learning, building, and improving.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- PHP
-- Python
-- JavaScript
-- SQL
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,js,html,css" />
+</p>
 
-### Framework & Tools
-- Laravel
-- Git & GitHub
-- Antigravity IDE
-- Visual Studio Code
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
 
-### Database
-- PostgreSQL
-- MySQL
+### 🌐 Frameworks & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,git,github,vscode" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
 ---
 
-## 📂 Areas of Interest
+## 🎯 Areas of Interest
 
+- Artificial Intelligence (AI)
+- Machine Learning
+- Cybersecurity
 - Web Development
 - Information Systems
 - Database Management
-- Artificial Intelligence
-- Cybersecurity
-- Software Development
+- Software Engineering
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 AI-Based Cyber Threat Detection
+Applying Machine Learning algorithms to detect network intrusions using the UNSW-NB15 dataset.
+
+### 🏙️ SIAGA KOTA
+A community-based digital platform concept for reporting public infrastructure and environmental issues.
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityarizp&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizp&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityarizp&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarizp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Adityarizp
+<p>
+  <a href="https://github.com/Adityarizp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *Keep Learning, Keep Building, Keep Improving.*
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Innovating 🚀</i>
+</p>
